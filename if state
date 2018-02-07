@@ -1,0 +1,15 @@
+<?php
+
+$conn=0;
+
+if($conn<1)
+{
+echo "Bad News!";
+}
+else
+{
+echo "We are on our way!";
+}
+
+
+?>
